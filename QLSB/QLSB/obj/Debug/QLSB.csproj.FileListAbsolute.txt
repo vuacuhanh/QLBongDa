@@ -1,0 +1,129 @@
+D:\C#\WINFORM\QLSB\QLSB\bin\Debug\QLSB.exe.config
+D:\C#\WINFORM\QLSB\QLSB\bin\Debug\QLSB.exe
+D:\C#\WINFORM\QLSB\QLSB\bin\Debug\QLSB.pdb
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.exe
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.pdb
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+D:\C#\WINFORM\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\bin\Debug\QLSB.exe.config
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\bin\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\bin\Debug\QLSB.pdb
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB\QLSB\obj\Debug\QLSB.pdb
+D:\Quản lý sb\QLSB\QLSB\bin\Debug\QLSB.exe.config
+D:\Quản lý sb\QLSB\QLSB\bin\Debug\QLSB.exe
+D:\Quản lý sb\QLSB\QLSB\bin\Debug\QLSB.pdb
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.exe
+D:\Quản lý sb\QLSB\QLSB\obj\Debug\QLSB.pdb
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\bin\Debug\QLSB.exe.config
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\bin\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\bin\Debug\QLSB.pdb
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB (1)\QLSB\QLSB\obj\Debug\QLSB.pdb
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe.config
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.pdb
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.exe
+C:\Users\admin\Documents\Zalo Received Files\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.pdb
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe.config
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.pdb
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.SuggestedBindingRedirects.cache
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.exe
+D:\Rèn luyện thiết kế web\TestNet\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.pdb
+D:\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe.config
+D:\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe
+D:\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.pdb
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.exe
+D:\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.pdb
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe.config
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.exe
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\bin\Debug\QLSB.pdb
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.DatSan.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Register.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.HeThong.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Login.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.ManHinhChinh.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.Properties.Resources.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLyDoanhThu.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.QuanLySan.resources
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.exe
+C:\Users\admin\Desktop\QLSB moi nhat (2)\QLSB moi nhat\QLSB\QLSB\obj\Debug\QLSB.pdb
